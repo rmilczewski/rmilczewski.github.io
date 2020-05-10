@@ -1,1 +1,9 @@
+# Site Settings
+locale                   : "de-DE"
+title                    : "Your Name / Site Title"
+title_separator          : "-"
+name                     : &name "Your Name"
+description              : &description "personal description"
+
+# Theme
 theme: jekyll-theme-cayman
