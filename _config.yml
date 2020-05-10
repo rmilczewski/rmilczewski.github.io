@@ -1,5 +1,5 @@
 # Site Settings
-locale                   : "de-DE"
+locale                   : "de_DE"
 title                    : "Rainer Milczewski"
 #title_separator          : "-"
 #name                     : &name "Your Name"
