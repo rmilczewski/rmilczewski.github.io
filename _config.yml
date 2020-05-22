@@ -6,7 +6,7 @@ title                    : "Rainer Milczewski"
 #description              : &description "personal description"
 
 # Theme
-theme: jekyll-theme-merlot
+theme: jekyll-theme-cayman
 
 # Site Author
 author:
