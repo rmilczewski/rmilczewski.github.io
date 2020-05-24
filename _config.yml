@@ -1,13 +1,6 @@
-# Site Settings
-lang                     : "de-DE"
 title                    : "Rainer Milczewski"
 description              : "my personal description"
 
-# Theme
-theme: jekyll-theme-cayman
-
-# Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+sass:
+        sass_dir: _sass
+        style: compressed
