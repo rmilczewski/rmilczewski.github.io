@@ -6,6 +6,7 @@ html {
 
 body {
     margin: 1.5em;
+    background-color: #1A1A1E;
 }
 
 @for $index from 1 through 6 {
@@ -46,21 +47,6 @@ body {
 p {
     margin-top: 1.25em;
 }
-
-.nav {
-    grid-area: nav;
-    display: inline-block;
-
-    h1 {
-        font-size: 2em;
-        margin-bottom: 1em;
-
-        a {
-            text-decoration: none;
-        }
-    }
-}
-
 
 #main {
     grid-area: main;
