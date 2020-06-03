@@ -54,6 +54,7 @@ p {
 
 #main {
     grid-area: main;
+    text-align: center;
 
     @for $index from 1 through 6 {
         h#{$index} {
