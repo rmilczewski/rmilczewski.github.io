@@ -52,6 +52,10 @@ p {
     margin-top: 1.25em;
 }
 
+ol, ul {
+    list-style: none;
+}
+
 #main {
     grid-area: main;
     text-align: center;
