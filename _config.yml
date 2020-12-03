@@ -1,6 +1,0 @@
-title                    : "Rainer Milczewski"
-description              : "my personal description"
-
-sass:
-        sass_dir: _sass
-        style: compressed
