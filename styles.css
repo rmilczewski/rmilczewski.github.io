@@ -1,5 +1,5 @@
 html {
-    font-family: "Exo", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Exo", sans-serif;
     font-size: 1rem;
     line-height: 1.5;
 }
@@ -11,14 +11,26 @@ body {
     text-align: center;
 }
 
-ol, ul {
+ul {
     list-style: none;
     margin: 0;
     padding: 0;
+}
+
+li {
+    margin: 1rem;
 }
 
 i {
     color: #5886E0;
 }
 
-/* main  style="display: flex;justify-content: center" */
+h1 {
+    text-transform: uppercase;
+    color: #FFFFFF;
+    letter-spacing: 0.65rem;
+    width: calc(100% + 0.65rem);
+    font-size: 2.5em;
+    line-height: 1.175;
+    font-weight: 100;
+}
